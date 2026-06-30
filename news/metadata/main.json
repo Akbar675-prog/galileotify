@@ -9,5 +9,16 @@
         "Important": false,
         "Author": "nanauuu",
         "Date": "1782777600"
+    },
+    {
+        "id": "app.md",
+        "Title": "New version!",
+        "Description": "Update new releases version available!",
+        "ImageURL": [
+            "https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.webp"
+        ],
+        "Important": true,
+        "Author": "nanauuu",
+        "Date": "1782777600"
     }
 ]
