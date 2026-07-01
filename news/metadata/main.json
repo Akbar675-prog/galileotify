@@ -29,5 +29,14 @@
         "Important": false,
         "Author": "nanauuu",
         "Date": "1782864000"
+    },
+    {
+        "id": "package-change.md",
+        "Title": "Package Migration Update",
+        "Description": "GalileoTify now uses the new package identifier for improved compatibility with future releases.",
+        "ImageURL": [],
+        "Important": true,
+        "Author": "nanauuu",
+        "Date": "1782864000"
     }
 ]
