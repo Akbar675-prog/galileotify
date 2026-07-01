@@ -38,5 +38,14 @@
         "Important": true,
         "Author": "nanauuu",
         "Date": "1782864000"
+    },
+    {
+        "id": "compatibel-for-all-devices.md",
+        "Title": "GalileoTify v15.5.5",
+        "Description": "Now Available For All Major Android Architectures.",
+        "ImageURL": [],
+        "Important": false,
+        "Author": "nanauuu",
+        "Date": "1782864000"
     }
 ]
