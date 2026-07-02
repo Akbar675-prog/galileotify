@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(GalileoRuntime)
+
+add_library(
+
+    GMA
+
+    SHARED
+
+    runtime.cpp
+
+)
