@@ -13,9 +13,6 @@
 ![Forks](https://img.shields.io/github/forks/Akbar675-prog/galileotify?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/Akbar675-prog/galileotify/total?style=for-the-badge)
 
-A modern Android music streaming application focused on compatibility,
-performance, accessibility, and AI-powered lyric translation.
-
 Open Source • Material Design 3 • Kotlin • Universal APK
 
 </div>
@@ -35,7 +32,6 @@ Besides music playback, GalileoTify integrates AI-powered lyric translation, all
 # ✨ Features
 
 ## 🎧 Music
-
 - Online music streaming
 - Offline playback
 - Background playback
@@ -45,10 +41,7 @@ Besides music playback, GalileoTify integrates AI-powered lyric translation, all
 - Smooth animations
 - Multi-language interface
 
----
-
 ## 🔍 Discover
-
 - Personalized recommendations
 - Trending music
 - Album exploration
@@ -56,21 +49,17 @@ Besides music playback, GalileoTify integrates AI-powered lyric translation, all
 - Playlist recommendations
 - Smart search
 
----
-
 ## 🤖 AI Lyric Translation
 
 GalileoTify supports multiple AI providers for lyric translation.
 
-Supported providers
-
+**Supported providers:**
 - OpenRouter
 - ChatGPT
 - Gemini
 - Claude
 
-Features
-
+**Features:**
 - Context-aware translation
 - Meaning preservation
 - Idiom interpretation
@@ -84,23 +73,7 @@ Features
 
 Supports translation into dozens of languages including:
 
-- English
-- Indonesian
-- Japanese
-- Korean
-- Chinese
-- Arabic
-- Spanish
-- French
-- German
-- Portuguese
-- Russian
-- Turkish
-- Hindi
-- Thai
-- Vietnamese
-
-...and many more through AI providers.
+English, Indonesian, Japanese, Korean, Chinese, Arabic, Spanish, French, German, Portuguese, Russian, Turkish, Hindi, Thai, Vietnamese, Filipino, Urdu, Bengali, Tamil, Telugu, Marathi, Punjabi, Persian, Hebrew, Ukrainian, Polish, Czech, Slovak, Hungarian, Romanian, Bulgarian, Serbian, Croatian, Slovenian, Dutch, Italian, Greek, Swedish, Norwegian, Danish, Finnish, Icelandic, Irish, Welsh, Catalan, Basque, Galician, Esperanto, and many more through AI providers.
 
 ---
 
@@ -108,8 +81,8 @@ Supports translation into dozens of languages including:
 
 ## Android Versions
 
-| Android | Supported |
-|----------|-----------|
+| Android Version | Supported |
+|-----------------|-----------|
 | 7 Nougat | ✅ |
 | 8 Oreo | ✅ |
 | 9 Pie | ✅ |
@@ -120,8 +93,6 @@ Supports translation into dozens of languages including:
 | 14 | ✅ |
 | 15 | ✅ |
 | 16 | ✅ |
-
----
 
 ## CPU Architectures
 
@@ -136,54 +107,29 @@ Universal APK supports phones, tablets, Android TV, and Android emulators.
 
 ---
 
-# 🛠 Technology Stack
-
-- Kotlin
-- Android SDK
-- Material Design 3
-- AndroidX
-- GitHub Actions
-- OpenRouter
-- OpenAI
-- Gemini
-- Claude
-
----
-
 # 📥 Download
 
 ## Latest Release
-
-https://github.com/Akbar675-prog/galileotify/releases
+[https://github.com/Akbar675-prog/galileotify/releases](https://github.com/Akbar675-prog/galileotify/releases)
 
 ## Universal APK
-
-https://github.com/Akbar675-prog/galileotify/releases/latest
+[https://github.com/Akbar675-prog/galileotify/releases/latest](https://github.com/Akbar675-prog/galileotify/releases/latest)
 
 ---
 
 # 👨‍💻 Development Team
 
-## Owner
+**Owner & Lead Developer**  
+Nauval - Founder, Owner, Lead Developer, Project Maintainer
 
-**Nauval**
+**Developers**  
+- Hosea - Developer • Administrator  
+- Riyann - Developer • Administrator  
+- Rasyid - Developer • Administrator
 
-Founder • Owner • Lead Developer • Maintainer
-
----
-
-## Developers
-
-- Hosea
-- Riyann
-- Rasyid
-
----
-
-## Administrators
-
-- Fariz
-- Fanani
+**Administrators**  
+- Fariz - Administrator  
+- Fanani - Administrator
 
 ---
 
@@ -202,7 +148,6 @@ Every contribution helps GalileoTify become better.
 Contributions are welcome!
 
 You are free to:
-
 - Fork this repository
 - Rename the application
 - Modify the source code
@@ -226,12 +171,25 @@ Please follow the existing coding style whenever possible.
 
 ---
 
+# 🛠 Technology Stack
+
+- Kotlin
+- Android SDK
+- Material Design 3
+- AndroidX
+- GitHub Actions
+- OpenRouter
+- OpenAI (ChatGPT)
+- Gemini
+- Claude
+
+---
+
 # 📜 License
 
 GalileoTify is released under the **MIT License**.
 
 You are free to:
-
 - ✅ Use commercially
 - ✅ Modify
 - ✅ Fork
@@ -246,253 +204,6 @@ The only requirement is that the original MIT License and copyright notice remai
 <div align="center">
 
 ### ⭐ If you like this project, consider giving it a Star!
-
-Made with ❤️ by the GalileoTify Team
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6a5cff,100:4f9cff"/>
-
-</div>- Filipino
-- Hindi
-- Urdu
-- Bengali
-- Tamil
-- Telugu
-- Marathi
-- Punjabi
-- Turkish
-- Persian
-- Hebrew
-- Russian
-- Ukrainian
-- Polish
-- Czech
-- Slovak
-- Hungarian
-- Romanian
-- Bulgarian
-- Serbian
-- Croatian
-- Slovenian
-- Dutch
-- German
-- French
-- Spanish
-- Portuguese
-- Italian
-- Greek
-- Swedish
-- Norwegian
-- Danish
-- Finnish
-- Icelandic
-- Irish
-- Welsh
-- Catalan
-- Basque
-- Galician
-- Esperanto
-
-And many more languages supported through integrated AI providers.
-
----
-
-# Compatibility
-
-## Android Versions
-
-| Version | Status |
-|----------|----------|
-| Android 7 (Nougat) | ✅ |
-| Android 8 (Oreo) | ✅ |
-| Android 9 (Pie) | ✅ |
-| Android 10 | ✅ |
-| Android 11 | ✅ |
-| Android 12 | ✅ |
-| Android 13 | ✅ |
-| Android 14 | ✅ |
-| Android 15 | ✅ |
-| Android 16 | ✅ |
-
----
-
-## Supported Architectures
-
-| Architecture | Status |
-|-------------|---------|
-| armeabi-v7a | ✅ |
-| arm64-v8a | ✅ |
-| x86 | ✅ |
-| x86_64 | ✅ |
-
-Universal APK support allows GalileoTify to run on physical devices, Android emulators, tablets, and a wide range of hardware configurations.
-
----
-
-# Download
-
-### Releases
-
-https://github.com/Akbar675-prog/galileotify/releases
-
-### Direct Download
-
-https://github.com/Akbar675-prog/galileotify/releases/download/galileotify1752/app-universal-release.apk
-
----
-
-# Development Team
-
-## Owner & Lead Developer
-
-### Nauval
-
-Founder, Owner, Lead Developer, Project Maintainer
-
----
-
-## Developers
-
-### Hosea
-
-Developer • Administrator
-
-### Riyann
-
-Developer • Administrator
-
-### Rasyid
-
-Developer • Administrator
-
----
-
-## Administrators
-
-### Fariz
-
-Administrator
-
-### Fanani
-
-Administrator
-
----
-
-# Contributors
-
-<a href="https://github.com/Akbar675-prog/galileotify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Akbar675-prog/galileotify" />
-</a>
-
-We sincerely appreciate every contributor who helps improve GalileoTify.
-
----
-
-# Technology Stack
-
-- Kotlin
-- Android SDK
-- Material Design 3
-- GitHub Actions
-- OpenRouter
-- Claude
-- Gemini
-- ChatGPT
-
----
-
-# Project Goals
-
-GalileoTify aims to provide:
-
-- Free music accessibility
-- Advanced lyric translation
-- Wide Android compatibility
-- Community-driven development
-- Modern user experience
-- Continuous innovation
-
----
-
-# Support
-
-Found a bug or have suggestions?
-
-- Open an Issue
-- Submit a Pull Request
-- Share feedback with the development team
-
----
-
-# License
-
-This project is distributed under its respective license.
-
-All trademarks, service marks, and copyrights belong to their respective owners.
-
----
-
-<div align="center">
-
-Made with ❤️ by the GalileoTify Team
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6a5cff,100:4f9cff"/>
-
-</div>
-### Rasyid
-Developer • Administrator
-
----
-
-## Administrators
-
-### Fariz
-Administrator
-
-### Fanani
-Administrator
-
----
-
-# Contributors
-
-<a href="https://github.com/Akbar675-prog/galileotify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Akbar675-prog/galileotify" />
-</a>
-
----
-
-# Project Goals
-
-GalileoTify aims to provide:
-
-- Better music accessibility
-- Wide device compatibility
-- Continuous development
-- Community-oriented improvements
-- Modern user experience
-
----
-
-# Support
-
-Found a bug or have suggestions?
-
-- Open an Issue
-- Submit a Pull Request
-- Share feedback with the development team
-
----
-
-# License
-
-This project is distributed under its respective license.
-
-Please respect all copyrights and trademarks belonging to their respective owners.
-
----
-
-<div align="center">
 
 Made with ❤️ by the GalileoTify Team
 
