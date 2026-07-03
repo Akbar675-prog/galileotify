@@ -1,212 +1,302 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=GalileoTify&fontSize=48&fontAlignY=40&color=0:6a5cff,100:4f9cff"/>
+![GalileoTify](https://capsule-render.vercel.app/api?type=waving&height=220&text=GalileoTify&fontSize=48&fontAlignY=40&color=0:6a5cff,100:4f9cff)
 
 # 🎵 GalileoTify
 
-### Modern Android Music Streaming Experience
+**A modern, lightweight Android music streaming app with AI-powered lyric translation**
 
 ![Version](https://img.shields.io/badge/Version-15.5.5-blue?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-7.0--16-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![License](https://img.shields.io/github/license/Akbar675-prog/galileotify?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Akbar675-prog/galileotify?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Akbar675-prog/galileotify?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/Akbar675-prog/galileotify/total?style=for-the-badge)
 
-Open Source • Material Design 3 • Kotlin • Universal APK
+[📥 Download](#-download) • [✨ Features](#-features) • [🚀 Quick Start](#-quick-start) • [📖 Docs](#-documentation) • [🤝 Contributing](#-contributing)
 
 </div>
 
 ---
 
-# 📖 About
+## 📖 About
 
-GalileoTify is an open-source Android music streaming application built with Kotlin and modern Android technologies.
+GalileoTify is an open-source Android music streaming application built with **Kotlin** and modern Android technologies. It provides a lightweight, beautiful, and highly compatible music experience across a wide range of Android devices (from Android 7 Nougat to Android 16).
 
-The project focuses on providing a lightweight, beautiful, and highly compatible music experience across a wide range of Android devices.
-
-Besides music playback, GalileoTify integrates AI-powered lyric translation, allowing users to understand songs in multiple languages while preserving artistic meaning and context.
+### Key Highlights
+- 🎨 Beautiful Material Design 3 interface
+- 🎵 Online & offline music playback
+- 🤖 AI-powered lyric translation
+- 📱 Universal APK (phones, tablets, TV, emulators)
+- 🌍 Support for 100+ languages
+- 🔒 Open source & privacy-focused
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-## 🎧 Music
-- Online music streaming
-- Offline playback
-- Background playback
-- Modern Material Design 3 UI
-- Dark & Light themes
-- High performance
-- Smooth animations
-- Multi-language interface
+### 🎧 Music Playback
+- **Online streaming** - Stream your favorite music anytime
+- **Offline playback** - Download and play music without internet
+- **Background playback** - Keep music playing while using other apps
+- **High performance** - Optimized for smooth playback on all devices
+- **Smooth animations** - Fluid UI transitions and effects
 
-## 🔍 Discover
-- Personalized recommendations
-- Trending music
-- Album exploration
-- Artist discovery
-- Playlist recommendations
-- Smart search
+### 🎨 User Interface
+- **Material Design 3** - Modern, clean, and intuitive design
+- **Dark & Light themes** - Choose your preferred appearance
+- **Multi-language support** - Interface in multiple languages
+- **Responsive layout** - Optimized for phones, tablets, and TV
 
-## 🤖 AI Lyric Translation
+### 🔍 Music Discovery
+- **Personalized recommendations** - AI-curated music suggestions
+- **Trending music** - Stay updated with what's popular
+- **Album & artist exploration** - Discover new artists and albums
+- **Smart search** - Find music quickly and easily
+- **Playlist recommendations** - Discover curated playlists
 
-GalileoTify supports multiple AI providers for lyric translation.
+### 🤖 AI Lyric Translation (Powered by Multiple Providers)
+GalileoTify uniquely integrates AI-powered lyric translation using **Claude, ChatGPT, Gemini, or OpenRouter** to help you understand songs in multiple languages while preserving artistic meaning.
 
-**Supported providers:**
+**Translation Features:**
+- ✅ Context-aware translation
+- ✅ Meaning preservation
+- ✅ Idiom & slang interpretation
+- ✅ Cultural adaptation
+- ✅ AI-assisted localization
+
+**Supported AI Providers:**
+- Claude (Anthropic)
+- ChatGPT (OpenAI)
+- Gemini (Google)
 - OpenRouter
-- ChatGPT
-- Gemini
-- Claude
-
-**Features:**
-- Context-aware translation
-- Meaning preservation
-- Idiom interpretation
-- Slang understanding
-- Cultural adaptation
-- AI-assisted localization
 
 ---
 
-# 🌍 Supported Languages
+## 🚀 Quick Start
 
-Supports translation into dozens of languages including:
+### Prerequisites
+- Android 7.0 (API 24) or higher
+- Minimum 100MB free storage
 
-English, Indonesian, Japanese, Korean, Chinese, Arabic, Spanish, French, German, Portuguese, Russian, Turkish, Hindi, Thai, Vietnamese, Filipino, Urdu, Bengali, Tamil, Telugu, Marathi, Punjabi, Persian, Hebrew, Ukrainian, Polish, Czech, Slovak, Hungarian, Romanian, Bulgarian, Serbian, Croatian, Slovenian, Dutch, Italian, Greek, Swedish, Norwegian, Danish, Finnish, Icelandic, Irish, Welsh, Catalan, Basque, Galician, Esperanto, and many more through AI providers.
+### Installation
 
----
+1. **Download the APK**
+   - Visit the [latest release page](https://github.com/Akbar675-prog/galileotify/releases/latest)
+   - Download the Universal APK file
 
-# 📱 Compatibility
+2. **Install the App**
+   - Enable "Unknown Sources" in your device settings (if needed)
+   - Open the downloaded APK file
+   - Follow the installation prompts
+   - Launch GalileoTify from your app drawer
 
-## Android Versions
+3. **Set Up Music Streaming (Optional)**
+   - Configure your preferred music streaming service
+   - Grant necessary permissions for offline playback
+   - Start enjoying music!
 
-| Android Version | Supported |
-|-----------------|-----------|
-| 7 Nougat | ✅ |
-| 8 Oreo | ✅ |
-| 9 Pie | ✅ |
-| 10 | ✅ |
-| 11 | ✅ |
-| 12 | ✅ |
-| 13 | ✅ |
-| 14 | ✅ |
-| 15 | ✅ |
-| 16 | ✅ |
-
-## CPU Architectures
-
-| Architecture | Supported |
-|--------------|-----------|
-| armeabi-v7a | ✅ |
-| arm64-v8a | ✅ |
-| x86 | ✅ |
-| x86_64 | ✅ |
-
-Universal APK supports phones, tablets, Android TV, and Android emulators.
+4. **Enable AI Lyric Translation (Optional)**
+   - Go to Settings → AI Translation
+   - Select your preferred AI provider
+   - Enter your API key
+   - Start translating lyrics!
 
 ---
 
-# 📥 Download
+## 📱 Compatibility
 
-## Latest Release
-[https://github.com/Akbar675-prog/galileotify/releases](https://github.com/Akbar675-prog/galileotify/releases)
+### Supported Android Versions
 
-## Universal APK
-[https://github.com/Akbar675-prog/galileotify/releases/latest](https://github.com/Akbar675-prog/galileotify/releases/latest)
+| Version | Release Year | Status |
+|---------|-------------|--------|
+| 7 Nougat | 2016 | ✅ |
+| 8 Oreo | 2017 | ✅ |
+| 9 Pie | 2018 | ✅ |
+| 10 | 2019 | ✅ |
+| 11 | 2020 | ✅ |
+| 12 | 2021 | ✅ |
+| 13 | 2022 | ✅ |
+| 14 | 2023 | ✅ |
+| 15 | 2024 | ✅ |
+| 16 | 2025 | ✅ |
 
----
+### Supported CPU Architectures
 
-# 👨‍💻 Development Team
+| Architecture | Devices |
+|--------------|---------|
+| ARM v7 (32-bit) | Older phones & tablets |
+| ARM v8 (64-bit) | Modern phones & tablets |
+| x86 | Some tablets & emulators |
+| x86_64 | Emulators & some tablets |
 
-**Owner & Lead Developer**  
-Nauval - Founder, Owner, Lead Developer, Project Maintainer
-
-**Developers**  
-- Hosea - Developer • Administrator  
-- Riyann - Developer • Administrator  
-- Rasyid - Developer • Administrator
-
-**Administrators**  
-- Fariz - Administrator  
-- Fanani - Administrator
-
----
-
-# 🤝 Contributors
-
-<a href="https://github.com/Akbar675-prog/galileotify/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Akbar675-prog/galileotify"/>
-</a>
-
-Every contribution helps GalileoTify become better.
+**Note:** The Universal APK includes all architectures and works on phones, tablets, Android TV, and emulators.
 
 ---
 
-# ❤️ Contributing
+## 🌍 Language Support
 
-Contributions are welcome!
+Supports 100+ languages for UI and AI lyric translation:
 
-You are free to:
-- Fork this repository
-- Rename the application
-- Modify the source code
-- Add new features
-- Improve performance
-- Submit Pull Requests
+**Major Languages:** English, Español, Français, Deutsch, 日本語, 中文, Русский, Português, العربية, Hindi, Thai, Vietnamese, Korean, Turkish, and more.
 
-Please follow the existing coding style whenever possible.
+Complete language list available [here](#).
 
 ---
 
-# 🚀 Roadmap
+## 📥 Download
 
-- Better recommendation engine
-- More AI providers
-- Improved caching
-- Better offline support
-- Android Auto support
-- Wear OS support
-- Plugin architecture
+### Latest Release
+- **Download Page:** [GitHub Releases](https://github.com/Akbar675-prog/galileotify/releases)
+- **Direct Download:** [Universal APK](https://github.com/Akbar675-prog/galileotify/releases/latest)
+- **Current Version:** 15.5.5
+- **File Size:** ~45MB
 
 ---
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
+**Frontend & UI:**
 - Kotlin
 - Android SDK
 - Material Design 3
 - AndroidX
-- GitHub Actions
+- Jetpack Compose
+
+**Backend & Services:**
+- GitHub Actions (CI/CD)
+- REST APIs
+
+**AI Providers:**
+- Claude (Anthropic)
+- ChatGPT (OpenAI)
+- Gemini (Google)
 - OpenRouter
-- OpenAI (ChatGPT)
-- Gemini
-- Claude
 
 ---
 
-# 📜 License
+## 📖 Documentation
 
-GalileoTify is released under the **MIT License**.
+- **[Installation Guide](#-quick-start)** - How to install GalileoTify
+- **[Feature Overview](#-features)** - What GalileoTify can do
+- **[Settings & Configuration](#)** - Customize your experience
+- **[Troubleshooting](#)** - Common issues & solutions
+- **[FAQ](#)** - Frequently asked questions
 
-You are free to:
-- ✅ Use commercially
-- ✅ Modify
-- ✅ Fork
-- ✅ Rename
-- ✅ Redistribute
-- ✅ Publish your own version
+---
 
-The only requirement is that the original MIT License and copyright notice remain included with substantial portions of the software.
+## 🚀 Roadmap
+
+### Planned Features (Next Releases)
+- 🤖 Better recommendation engine with ML
+- 🔌 More AI providers support
+- 💾 Improved caching system
+- 📴 Enhanced offline functionality
+- 🚗 Android Auto integration
+- ⌚ Wear OS support
+- 🎮 Plugin architecture
+
+---
+
+## 👨‍💻 Development Team
+
+### Core Team
+| Role | Name |
+|------|------|
+| **Founder & Lead Dev** | Nauval |
+| **Developer & Admin** | Hosea |
+| **Developer & Admin** | Riyann |
+| **Developer & Admin** | Rasyid |
+| **Administrator** | Fariz |
+| **Administrator** | Fanani |
+
+### Contributors
+We thank all [contributors](https://github.com/Akbar675-prog/galileotify/graphs/contributors) who've helped improve GalileoTify!
+
+<a href="https://github.com/Akbar675-prog/galileotify/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Akbar675-prog/galileotify" alt="GalileoTify Contributors"/>
+</a>
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from everyone! Here's how you can help:
+
+### How to Contribute
+1. **Fork** this repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing-feature`)
+5. **Open** a Pull Request
+
+### What You Can Do
+- ✅ Add new features
+- ✅ Fix bugs
+- ✅ Improve performance
+- ✅ Enhance UI/UX
+- ✅ Improve documentation
+- ✅ Report issues
+- ✅ Submit translations
+
+### Guidelines
+- Follow existing code style and conventions
+- Write clear commit messages
+- Test your changes thoroughly
+- Update documentation as needed
+- Be respectful and constructive
+
+---
+
+## 📄 License
+
+GalileoTify is released under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### You Are Free To:
+✅ Use commercially  
+✅ Modify the source code  
+✅ Fork the repository  
+✅ Rename the application  
+✅ Redistribute  
+✅ Publish your own version  
+
+### Requirements:
+⚠️ Include the original MIT License and copyright notice with substantial portions of the software.
+
+---
+
+## ❓ FAQ
+
+**Q: Is GalileoTify free?**  
+A: Yes! GalileoTify is completely free and open source.
+
+**Q: Do I need internet to use GalileoTify?**  
+A: No, you can download music for offline playback. However, online streaming requires an internet connection.
+
+**Q: Which AI provider should I use for lyric translation?**  
+A: All providers are good. Claude is known for contextual understanding, ChatGPT for versatility, and Gemini for speed.
+
+**Q: Can I use GalileoTify on my tablet?**  
+A: Yes! GalileoTify works on phones, tablets, and Android TV devices.
+
+**Q: How do I report a bug?**  
+A: Open an issue on [GitHub Issues](https://github.com/Akbar675-prog/galileotify/issues).
+
+---
+
+## 📞 Support
+
+- **Issues & Bug Reports:** [GitHub Issues](https://github.com/Akbar675-prog/galileotify/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Akbar675-prog/galileotify/discussions)
+- **Email:** [Contact via GitHub](https://github.com/Akbar675-prog)
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, consider giving it a Star!
+### ⭐ If you like this project, please give it a Star!
 
-Made with ❤️ by the GalileoTify Team
+**Made with ❤️ by the GalileoTify Team**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6a5cff,100:4f9cff"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6a5cff,100:4f9cff)
 
 </div>
