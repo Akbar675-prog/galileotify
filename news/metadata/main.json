@@ -3,49 +3,9 @@
         "id": "test.md",
         "Title": "Testing news message",
         "Description": "Hai sayangg",
-        "ImageURL": [
-            "https://c.tenor.com/ijsnliG5ZegAAAAC/tenor.gif"
-        ],
+        "ImageURL": [],
         "Important": false,
-        "Author": "nanauuu",
+        "Author": "Akbar",
         "Date": "1782777600"
-    },
-    {
-        "id": "update.md",
-        "Title": "New version!",
-        "Description": "Update new releases version available!",
-        "ImageURL": [
-            "https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.webp"
-        ],
-        "Important": false,
-        "Author": "nanauuu",
-        "Date": "1782864000"
-    },
-    {
-        "id": "15-4-8.md",
-        "Title": "New version!",
-        "Description": "Update new releases version available!",
-        "ImageURL": [],
-        "Important": false,
-        "Author": "nanauuu",
-        "Date": "1782864000"
-    },
-    {
-        "id": "package-change.md",
-        "Title": "Package Migration Update",
-        "Description": "GalileoTify now uses the new package identifier for improved compatibility with future releases.",
-        "ImageURL": [],
-        "Important": true,
-        "Author": "nanauuu",
-        "Date": "1782864000"
-    },
-    {
-        "id": "compatibel-for-all-devices.md",
-        "Title": "GalileoTify v15.5.5",
-        "Description": "Now Available For All Major Android Architectures.",
-        "ImageURL": [],
-        "Important": false,
-        "Author": "nanauuu",
-        "Date": "1782864000"
     }
 ]
