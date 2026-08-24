@@ -7,5 +7,14 @@
         "Important": false,
         "Author": "Akbar",
         "Date": "1782777600"
+    },
+    {
+        "id": "compatibel-for-all-devices.md",
+        "Title": "Compatibel For All Devices",
+        "Description": "Compatibility across all devices, ranging from standard Android devices to Android emulators.",
+        "ImageURL": [],
+        "Important": false,
+        "Author": "GMA / Akbar",
+        "Date": "1787504400
     }
 ]
